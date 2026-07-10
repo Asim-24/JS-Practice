@@ -198,7 +198,7 @@ the method was not added to HTMLCollection because the old website were dependan
 - returns a HTMLCollection of all the element nodes inside the element nodes
 - only returns element nodes and ignores all othere nodes.
 
-1. element.childNodes
+2. element.childNodes
 
 - for all the node types ( even if dosen't make sense using on text node )
 - returns a live NodeList containing all the child nodes inside the node. 
